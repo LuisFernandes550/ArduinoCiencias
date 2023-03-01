@@ -33,9 +33,9 @@ void loop() {
 
   // Print results to Serial Monitor to 2 decimal places
   Serial.print("ADC Voltage = ");
-  Serial.print(adc_voltage, 2);
+  Serial.print(adc_voltage);
   Serial.print(" Input Voltage = ");
-  Serial.println(in_voltage, 2);
+  Serial.println(in_voltage);
 
   // Short delay
   delay(500);
