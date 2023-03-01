@@ -1,12 +1,13 @@
 # Formação de Arduino - Ciência Viva
 
-<a href="https://www.arduino.cc/en/software">Software Arduino</a>
+### Software Arduino
+<a href="https://www.arduino.cc/en/software">Download</a>
 
 ### Repositórios de projetos
-<p><a href="https://www.instructables.com/">Instructables</a></p>
-<p><a href="https://projecthub.arduino.cc/">Arduino Projecthub</a></p>
-<p><a href="https://www.thingiverse.com/">Thingiverse</a></p>
-<p><a href="https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem">Microsoft Hacking STEM</a></p>
+<p><a href="https://www.instructables.com/">Instructables</a></br>
+<a href="https://projecthub.arduino.cc/">Arduino Projecthub</a></br>
+<a href="https://www.thingiverse.com/">Thingiverse</a></br>
+<a href="https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem">Microsoft Hacking STEM</a></p>
 
 
 
