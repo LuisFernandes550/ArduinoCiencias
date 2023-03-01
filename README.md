@@ -19,3 +19,6 @@
 <a href="https://wokwi.com/dashboard/projects">Wokwi</a>
 </p>
 
+### Wiki Keyestudio
+<p><a href="https://ks0522-keyestudio-48-in-1-sensor-kit.readthedocs.io/en/latest/KS0522.html">Ver manual</a>
+</p>
