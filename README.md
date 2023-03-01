@@ -23,3 +23,8 @@
 <p><a href="https://ks0522-keyestudio-48-in-1-sensor-kit.readthedocs.io/en/latest/KS0522.html">Ver manual</a></br>
   <a href="https://www.dropbox.com/sh/cq8p4y04zwxomla/AADYUb_stkzTKTBfcwQUVEOma?dl=0">Dropbox</a>
 </p>
+
+### Voltage Sensor
+<p>
+  <a href="https://how2electronics.com/interfacing-0-25v-dc-voltage-sensor-with-arduino/">Interfacing 0-25V DC Voltage Sensor with Arduino</a>
+</p>  
